@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|c:\\users\\qusai\\source\\repos\\usermanagement_task\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\controllers\\importuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\importuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\importusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\importusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\application\\usecases\\importusersfromexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|solutionrelative:application\\usecases\\importusersfromexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\application\\usecases\\getallusersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|solutionrelative:application\\usecases\\getallusersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\application\\usecases\\adduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|solutionrelative:application\\usecases\\adduserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385E8CEF-381A-466D-B65A-DA338BA0DEA9}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\importtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\importtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\adminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\adminlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\core\\dtos\\addadminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D55EE6-ED5C-44B4-BAF6-144A21303BDF}|Core\\Core.csproj|solutionrelative:core\\dtos\\addadminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\EPPlus.7.6.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.7.6.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\auth\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\auth\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\scripts\\validation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FD27BE-7FF6-4B47-B1FA-A580ADDF96D1}|Web\\Web.csproj|solutionrelative:web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\importtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\importtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\sysdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\infrastructure\\usermanagement.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F13D8855-A0FB-4402-AEED-9DAF3FBCF987}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\usermanagement.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:58:47.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\EPPlus.7.6.1\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.7.6.1\\readme.txt",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\EPPlus.7.6.1\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.7.6.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-12T19:25:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-11T19:38:34.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportUsersFromExcelUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\ImportUsersFromExcelUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\ImportUsersFromExcelUseCase.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\ImportUsersFromExcelUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\ImportUsersFromExcelUseCase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:56:41.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\User.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\User.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\User.cs",
+              "RelativeToolTip": "Infrastructure\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:37.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:54:17.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.config",
+              "RelativeDocumentMoniker": "Web\\Web.config",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.config",
+              "RelativeToolTip": "Web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-11T19:51:52.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllUsersUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\GetAllUsersUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\GetAllUsersUseCase.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\GetAllUsersUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\GetAllUsersUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:48:20.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:47:20.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\ImportUsersController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ImportUsersController.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\ImportUsersController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ImportUsersController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwIYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:26:59.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.Debug.config",
+              "RelativeToolTip": "Web\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T19:44:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:50:19.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\ImportUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\ImportUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\ImportUsers\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\ImportUsers\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T19:33:43.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:49:48.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\AddUserUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AddUserUseCase.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Application\\UseCases\\AddUserUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\AddUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:52:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web\\Web.Release.config",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Web.Release.config",
+              "RelativeToolTip": "Web\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T19:44:51.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:25:50.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:34:24.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\UserLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:33:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:20:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImportTransactionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\ImportTransactionDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\ImportTransactionDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\ImportTransactionDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\ImportTransactionDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:24:04.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AdminUserDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\AdminUserDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AdminUserDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\AdminUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:21:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AdminLoginDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\AdminLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AdminLoginDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\AdminLoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:42:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddAdminUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AddAdminUserDTO.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\AddAdminUserDTO.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Core\\DTOs\\AddAdminUserDTO.cs",
+              "RelativeToolTip": "Core\\DTOs\\AddAdminUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:53:28.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:58:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:02:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Auth\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Auth\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Auth\\AdminLogin.cshtml",
+              "RelativeToolTip": "Web\\Views\\Auth\\AdminLogin.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvy0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T17:09:43.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Admin\\AddAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeToolTip": "Web\\Views\\Admin\\AddAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T19:01:44.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T19:29:53.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:37:44.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Web\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T20:06:50.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Validation.js",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Scripts\\Validation.js",
+              "RelativeDocumentMoniker": "Web\\Scripts\\Validation.js",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Scripts\\Validation.js",
+              "RelativeToolTip": "Web\\Scripts\\Validation.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-12T15:25:56.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\AdminUser.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\AdminUser.cs",
+              "RelativeToolTip": "Infrastructure\\AdminUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:30.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Web.config",
+              "RelativeDocumentMoniker": "Infrastructure\\Web.config",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\Web.config",
+              "RelativeToolTip": "Infrastructure\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-11T19:51:37.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T19:49:41.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\packages.config",
+              "RelativeDocumentMoniker": "Infrastructure\\packages.config",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\packages.config",
+              "RelativeToolTip": "Infrastructure\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-11T19:31:37.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Web\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\Global.asax.cs",
+              "RelativeToolTip": "Web\\Global.asax.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:48:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Web\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Web\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Web\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:49:10.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "sysdiagram.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\sysdiagram.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\sysdiagram.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\sysdiagram.cs",
+              "RelativeToolTip": "Infrastructure\\sysdiagram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ImportTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\ImportTransaction.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ImportTransaction.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\ImportTransaction.cs",
+              "RelativeToolTip": "Infrastructure\\ImportTransaction.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:32.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.Designer.cs",
+              "RelativeToolTip": "Infrastructure\\UserManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:09.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.cs",
+              "RelativeToolTip": "Infrastructure\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:16:03.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserManagement.tt",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.tt",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.tt",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.tt",
+              "RelativeToolTip": "Infrastructure\\UserManagement.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-10T19:05:12.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserManagement.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.edmx.diagram",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.edmx.diagram",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.edmx.diagram",
+              "RelativeToolTip": "Infrastructure\\UserManagement.edmx.diagram",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-10T19:16:22.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserManagement.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.Context.tt",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.Context.tt",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.Context.tt",
+              "RelativeToolTip": "Infrastructure\\UserManagement.Context.tt",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-10T19:05:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserManagement.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.edmx",
+              "RelativeDocumentMoniker": "Infrastructure\\UserManagement.edmx",
+              "ToolTip": "C:\\Users\\Qusai\\source\\repos\\UserManagement_Task\\Infrastructure\\UserManagement.edmx [Diagram1]",
+              "RelativeToolTip": "Infrastructure\\UserManagement.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-10T19:04:16.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

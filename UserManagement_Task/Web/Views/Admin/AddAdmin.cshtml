@@ -1,0 +1,79 @@
+﻿@model Core.DTOs.AddAdminUserDTO
+
+@{
+    ViewBag.Title = "Add Admin";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4" style="max-width: 500px; margin: auto;">
+        <h2 class="text-center">Add Admin</h2>
+
+        @if (ViewBag.ErrorMessage != null)
+        {
+            <div class="alert alert-danger text-center">@ViewBag.ErrorMessage</div>
+        }
+
+        @if (ViewBag.SuccessMessage != null)
+        {
+            <div class="alert alert-success text-center">@ViewBag.SuccessMessage</div>
+        }
+
+        @using (Html.BeginForm("AddAdmin", "Admin", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+            <!-- Email -->
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <div class="input-group">
+                    <span class="input-group-text"><i class="bi bi-envelope"></i></span>
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email", required = "required" })
+                </div>
+            </div>
+
+            <!-- Password -->
+            <div class="mb-3">
+                <label class="form-label">Password</label>
+                <div class="input-group">
+                    <span class="input-group-text"><i class="bi bi-lock"></i></span>
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", required = "required" })
+                </div>
+            </div>
+
+            <!-- Confirm Password -->
+            <div class="mb-3">
+                <label class="form-label">Confirm Password</label>
+                <div class="input-group">
+                    <span class="input-group-text"><i class="bi bi-lock-fill"></i></span>
+                    <input type="password" id="ConfirmPassword" class="form-control" required />
+                </div>
+                <span id="PasswordMismatchError" class="text-danger d-none">Passwords do not match!</span>
+            </div>
+
+            <!-- Submit Button -->
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary w-100" onclick="return validatePasswords();">
+                    <i class="bi bi-person-plus"></i> Add Admin
+                </button>
+            </div>
+        }
+    </div>
+</div>
+
+<script>
+    function validatePasswords() {
+        let password = document.getElementById("Password").value;
+        let confirmPassword = document.getElementById("ConfirmPassword").value;
+        let errorSpan = document.getElementById("PasswordMismatchError");
+
+        if (password !== confirmPassword) {
+            errorSpan.classList.remove("d-none");
+            return false;
+        } else {
+            errorSpan.classList.add("d-none");
+            return true;
+        }
+    }
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
